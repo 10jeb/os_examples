@@ -1,4 +1,3 @@
-// timing.c
 // timing measurements of various syscalls and functions
 
 #define _GNU_SOURCE
